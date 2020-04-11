@@ -11,10 +11,8 @@
 <body>
 
 <?php
-include('header.php')
-?>
-<?php
-include('eventList.php')
+include('header.php');
+include('eventList.php');
 ?>
 
 <!-- The flexible grid (content) -->
