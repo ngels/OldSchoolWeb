@@ -22,9 +22,9 @@ include('landing.php')
     <p>we re here to make your event a succes, whatever you want how ever you want it just tells us and we make it happen. if you have no idea hook up our 
       <a href="gallery.php">Event Gallery</a></p>
     <br>
-    <div style="padding:0 50px">
+    <div style="margin-top:30px">
     <div class="card-deck">
-      <div class="card" style="background:rgba(0,120,0,.3);border-radius:50px;">
+      <div class="card" style="background:rgba(0,120,0,.3);border-radius:50px;padding:0 20px;">
         
         <i class="fa fa-clock-o fa-4x"></i>
         <div class="card-body">
@@ -32,7 +32,7 @@ include('landing.php')
           <p class="card-text">As soon as you give the go! your event has started, get yourself ready and up to do what your the best </p>
         </div>
       </div>
-      <div class="card" style="background:rgba(120,0,0,.3);border-radius:50px;">
+      <div class="card" style="background:rgba(120,0,0,.3);border-radius:50px;padding:0 20px;">
       <i class="fa fa-qrcode fa-4x"></i>
         <div class="card-body">
           <h5 class="card-title"  style="color:#fff">Creative Team</h5>
@@ -40,7 +40,7 @@ include('landing.php')
           
         </div>
       </div>
-      <div class="card" style="background:rgba(200,250,0,.6);border-radius:50px;">
+      <div class="card" style="background:rgba(200,250,0,.6);border-radius:50px;padding:0 20px;">
       <i class="fa fa-comments-o fa-4x"></i>
         <div class="card-body">
           <h5 class="card-title"  style="color:#fff">Customer First</h5>
@@ -49,9 +49,11 @@ include('landing.php')
         </div>
       </div>
     </div>
-    <div style="margin-top:10px;">
+  <section style="margin:70px;">
+    <div >
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
     </div>
+</section>
 </div>
     <div style="background-color:rgba(223,20,34,.6);color:#fff;margin-top:40px;padding:40px">
     <h2>Be your own witness</h2>
